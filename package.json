@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/TheDevMinerTV/yeelight-mqtt/issues"
   },
-  "homepage": "https://github.com/TheDevMinerTV/yeelight-mqtt#readme"
+  "homepage": "https://github.com/TheDevMinerTV/yeelight-mqtt#readme",
+  "dependencies": {
+    "mqtt": "^2.18.8",
+    "yeelight-awesome": "^1.0.12"
+  }
 }
