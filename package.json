@@ -1,0 +1,23 @@
+{
+  "name": "yeelight-mqtt",
+  "version": "0.0.1",
+  "description": "This javascript project allows yeelight lightbulbs to be controlled over mqtt",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheDevMinerTV/yeelight-mqtt.git"
+  },
+  "keywords": [
+    "yeelight",
+    "mqtt"
+  ],
+  "author": "TheDevMinerTV",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheDevMinerTV/yeelight-mqtt/issues"
+  },
+  "homepage": "https://github.com/TheDevMinerTV/yeelight-mqtt#readme"
+}
