@@ -1,0 +1,6 @@
+{
+    "broker": "mqtt://io.adafruit.com", 
+    "username": "TheDevMinerTV",
+    "token": "32fbe51bdc2af42c3a59e746ad5c326bb",
+    "feed": "TheDevMinerTV/feeds/dashbuttons"
+}
