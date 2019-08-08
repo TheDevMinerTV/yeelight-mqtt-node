@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/TheDevMinerTV/yeelight-mqtt#readme",
   "dependencies": {
-    "mqtt": "^2.18.8",
+    "mqtt": "^3.0.0",
     "yeelight-awesome": "^1.0.12"
   }
 }
